@@ -1,0 +1,6 @@
+{
+  "name": "조경희의 개인 홈페이지 (Cho Kyung-hee)",
+  "description": "조경희의 생각, 기록, 활동을 담은 따뜻하고 세련된 개인 홈페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
